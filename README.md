@@ -1,3 +1,1 @@
-# golden
-# abcjobs
 # cheeweiCognizant
